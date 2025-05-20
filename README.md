@@ -42,7 +42,7 @@ The goal is to support poultry farmers and veterinarians in early disease detect
 |------------------|--------------------------|
 | Model Architecture | CNN + CBAM              |
 | QA System         | RAG (Llama + FAISS)      |
-| Backend           | Python, FastAPI   |
+| Backend           | Python, Flask   |
 | Frontend          | HTML/CSS/JS |
 | ML Libraries      | PyTorch / TensorFlow     |
 | Vector Store      | FAISS                    |
