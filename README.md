@@ -5,13 +5,14 @@ A hybrid deep learning and retrieval-based system for early detection and diagno
 ## 🧠 Project Overview
 
 This project combines computer vision and retrieval-augmented generation (RAG) to:
---	Classify poultry diseases from fecal matter images using a CNN + CBAM (Convolutional Block Attention Module) model.
---	CBAM is used to help the model focus on the most important parts of the fecal image, since fecal matter is often irregularly spread and disease cues may be subtle.
---	By applying channel and spatial attention, CBAM highlights critical features and regions, improving disease classification accuracy.
---	Provide real-time, disease-specific answers using a Llama-based QA bot integrated with FAISS.
---	Deliver results through a user-friendly web interface.
 
-The goal is to support poultry farmers and veterinarians in early disease detection and intervention.
+- **Classify poultry diseases from fecal matter images** using a CNN + CBAM (Convolutional Block Attention Module) model.  
+- **CBAM is used to help the model focus on the most important parts of the fecal image**, since fecal matter is often irregularly spread and disease cues may be subtle.  
+- **By applying channel and spatial attention**, CBAM highlights critical features and regions, improving disease classification accuracy.
+- **Provide real-time, disease-specific answers** using a Llama-based QA bot integrated with FAISS.
+- **Deliver results through a user-friendly web interface**.
+
+The goal is to support poultry farmers and veterinarians in **early disease detection and intervention**.
 
 ---
 
