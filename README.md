@@ -1,4 +1,4 @@
-# 🐔 Poultry Disease Classification & QA Assistant
+# Poultry Disease Classification & QA Assistant
 
 A hybrid deep learning and retrieval-based system for early detection and diagnosis of poultry diseases using image-based classification and a context-aware question-answering chatbot.
 
